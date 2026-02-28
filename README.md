@@ -4,6 +4,8 @@
 
 This repository proposes an experimental framework to investigate nonlinear phase dynamics in Mg-doped 1T-TaS₂ as a candidate physical substrate for ultra-low-power analog AI systems. The focus is on charge density wave (CDW) phase stability, multi-state electronic behavior, and measurable nonlinear response suitable for reservoir-style computation.
 
+![Concept](concept.svg)
+
 ⸻
 
 2. Background
