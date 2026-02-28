@@ -1,12 +1,12 @@
 # Ultra-Low-Power Physical-Response AI Substrate Using Mg-Doped 1T-TaS₂
 
-## 1. Abstract
+1. Abstract
 
 This repository proposes an experimental framework to investigate nonlinear phase dynamics in Mg-doped 1T-TaS₂ as a candidate physical substrate for ultra-low-power analog AI systems. The focus is on charge density wave (CDW) phase stability, multi-state electronic behavior, and measurable nonlinear response suitable for reservoir-style computation.
 
 ⸻
 
-## 2. Background
+2. Background
 
 1T-TaS₂ is a transition metal dichalcogenide known for its charge density wave (CDW) phases and temperature-dependent phase transitions. These phases exhibit nonlinear electronic behavior, hysteresis, and multi-stable states.
 
@@ -16,7 +16,7 @@ Magnesium doping may influence defect density, electronic band structure, and ph
 
 ⸻
 
-## 3. Hypothesis
+3. Hypothesis
 
 Mg doping in 1T-TaS₂ modifies phase stability and defect-mediated electronic response, potentially enhancing:
 	•	Multi-stable electronic states
@@ -28,7 +28,7 @@ These properties may support physical-response-based analog computational archit
 
 ⸻
 
-## 4. Proposed Experimental Framework
+4. Proposed Experimental Framework
 
 Material Preparation
 	•	Thin film growth via CVD or MBE
@@ -48,7 +48,7 @@ Dynamic Testing
 
 ⸻
 
-## 5. Measurable Predictions
+5. Measurable Predictions
 
 If the hypothesis holds, Mg-doped samples should demonstrate:
 	•	Modified CDW phase boundaries
@@ -58,7 +58,7 @@ If the hypothesis holds, Mg-doped samples should demonstrate:
 
 ⸻
 
-## 6. Falsifiability
+6. Falsifiability
 
 The hypothesis would be falsified if:
 	•	Mg incorporation does not measurably alter CDW phase stability
@@ -68,6 +68,13 @@ The hypothesis would be falsified if:
 
 ⸻
 
-## 7. Scope and Limitations
+7. Scope and Limitations
 
 This project does not claim autonomous intelligence or zero-energy computation. The focus is limited to material-level nonlinear dynamics and potential applicability to ultra-low-power analog AI architectures.
+
+⸻
+
+8. Future Computational Modeling
+
+Future work may include density functional theory (DFT) simulations to estimate Mg-induced modifications in electronic band structure and CDW stability, as well as numerical modeling of nonlinear response under pulsed inputs.
+
