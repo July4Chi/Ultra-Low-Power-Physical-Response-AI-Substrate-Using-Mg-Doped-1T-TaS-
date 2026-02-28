@@ -1,0 +1,49 @@
+<svg width="700" height="420" xmlns="http://www.w3.org/2000/svg">
+
+  <style>
+    .box { fill: white; stroke: black; stroke-width: 2; }
+    .text { font-family: Arial, sans-serif; font-size: 14px; text-anchor: middle; }
+    .arrow { stroke: black; stroke-width: 2; marker-end: url(#arrowhead); }
+  </style>
+
+  <defs>
+    <marker id="arrowhead" markerWidth="10" markerHeight="7"
+      refX="10" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="black" />
+    </marker>
+  </defs>
+
+  <!-- Input -->
+  <rect x="200" y="30" width="300" height="50" class="box"/>
+  <text x="350" y="60" class="text">Input Pulse (Vin)</text>
+
+  <!-- Arrow -->
+  <line x1="350" y1="80" x2="350" y2="120" class="arrow"/>
+
+  <!-- Material -->
+  <rect x="150" y="120" width="400" height="80" class="box"/>
+  <text x="350" y="155" class="text">Mg-Doped 1T-TaS₂ Thin Film</text>
+  <text x="350" y="175" class="text">Nonlinear CDW Phase Dynamics</text>
+
+  <!-- Electrodes -->
+  <rect x="60" y="130" width="70" height="60" class="box"/>
+  <text x="95" y="165" class="text">Au</text>
+
+  <rect x="570" y="130" width="70" height="60" class="box"/>
+  <text x="605" y="165" class="text">Au</text>
+
+  <!-- Arrow -->
+  <line x1="350" y1="200" x2="350" y2="240" class="arrow"/>
+
+  <!-- Response -->
+  <rect x="200" y="240" width="300" height="60" class="box"/>
+  <text x="350" y="270" class="text">Nonlinear State Response</text>
+
+  <!-- Arrow -->
+  <line x1="350" y1="300" x2="350" y2="340" class="arrow"/>
+
+  <!-- Output -->
+  <rect x="200" y="340" width="300" height="50" class="box"/>
+  <text x="350" y="370" class="text">Measured Output (Vout)</text>
+
+</svg>
